@@ -34,6 +34,9 @@
             <TextBox Grid.Column="1" Grid.Row="1" Width="150" Margin="5" />
             <Button Content="Agregar" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" 
                     Background="YellowGreen" Width="120" Height="30" HorizontalAlignment="Center" Margin="5" />
+
+            <Button Content="Agregar" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" 
+         Background="YellowGreen" Width="120" Height="30" HorizontalAlignment="Center" Margin="5" />
         </Grid>
     </Grid>
 </Window>
